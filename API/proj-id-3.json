@@ -1,0 +1,56 @@
+{
+  "title": "&laquo;Fengo Shop&raquo;&nbsp;&mdash; интернет-магазин брендовой одежды",
+  "adaptive": true,
+  "name": "fengo",
+  "text": "Адаптивный, одностраничный проект без изображений. При его разработке основной задачей было организовать загрузку товаров с базы данных и адаптивная верстка. В проекте реализованы 3 слайдера на JS, каждый из которых наследуется из основного класса слайдера. Также реализован метод поиска в реальном времени.",
+  "path": "/fengo/index.html",
+  "images": [{
+    "id": 1,
+    "small": "fengo-1.jpg",
+    "big": "fengo-1-big.jpg",
+    "desc": "Основной слайдер &laquo;Full-screen&raquo; с пагинацией и стрелками",
+    "active": false
+  },{
+    "id": 2,
+    "small": "fengo-2.jpg",
+    "big": "fengo-2-big.jpg",
+    "desc": "Слайдер только с кнопками переключения",
+    "active": false
+  },{
+    "id": 3,
+    "small": "fengo-3.jpg",
+    "big": "fengo-3-big.jpg",
+    "desc": "Слайдер только с пагинацией",
+    "active": false
+  },{
+    "id": 4,
+    "small": "fengo-4.jpg",
+    "big": "fengo-4-big.jpg",
+    "desc": "Карточки товара",
+    "active": false
+  },{
+    "id": 5,
+    "small": "fengo-5.jpg",
+    "big": "fengo-5-big.jpg",
+    "desc": "Наведение на карточку. В зависимости от меток на товаре - его карточка отображает дополнительные параметры",
+    "active": false
+  },{
+    "id": 6,
+    "small": "fengo-6.jpg",
+    "big": "fengo-6-big.jpg",
+    "desc": "Футер разбит на блоки",
+    "active": false
+  },{
+    "id": 7,
+    "small": "fengo-7.jpg",
+    "big": "fengo-7-big.jpg",
+    "desc": "Поиск по сайту",
+    "active": false
+  },{
+    "id": 8,
+    "small": "fengo-8.jpg",
+    "big": "fengo-8-big.jpg",
+    "desc": "Поиск меняет отображаемые товары в зависимости от ввода, в реальном времени",
+    "active": false
+  }]
+}

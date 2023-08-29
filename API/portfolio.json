@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "name": "brand",
+    "imgCatalogBig": "brand-home-catalog-big.jpg",
+    "imgBig": "proj1.jpg",
+    "imgSmall": ["brand-home-catalog-small.jpg","brand-product-catalog-small.jpg","brand-gallery-catalog-small.jpg","brand-cart-catalog-small.jpg"],
+    "variantsBig": ["brand-home-catalog-big.jpg","brand-product-catalog-big.jpg","brand-gallery-catalog-big.jpg","brand-cart-catalog-big.jpg"],
+    "title": "&laquo;BRAND-Shop&raquo; - Интернет-магазин",
+    "notAdaptive": true,
+    "pageInfo": "Страницы: <span>Домашняя, Страница товара, Страница &laquo;Чек-аут&raquo;, Галерея товаров, Корзина</span>",
+    "about": "О проекте: <span>Интернет-магазин брендовой одежды. Присутствуют блоки акционных товаров, карточки товара, выпадающие меню, формы фильтрации.На данный момент присутствует только базовая верстка без какого-либо Js.</span>",
+    "optional" : "Дополнительно: <span>Ведутся работы по переносу проекта на Vue.js."
+  },
+  {
+    "id": 2,
+    "name": "Games",
+    "imgCatalogBig": "historical-home-catalog-big.jpg",
+    "imgBig": "proj2.jpg",
+    "imgSmall": ["historical-home-catalog-small.jpg","historical-gallery-catalog-small.jpg","historical-product-catalog-small.jpg","historical-contact-catalog-small.jpg"],
+    "variantsBig": ["historical-home-catalog-big.jpg","historical-gallery-catalog-big.jpg","historical-product-catalog-big.jpg","historical-contact-catalog-big.jpg"],
+    "title": "&laquo;Historical Games&raquo; - Интернет магазин",
+    "notAdaptive": true,
+    "pageInfo": "Страницы: <span>Домашняя, Страница товара, Галерея товаров, Страница контактов</span>",
+    "about": "О проекте: <span>Интернет-магазин видеоигр. Присутствуют блоки акционных товаров, карточки товара. Реализованы: Слайдер, Аккордеон. Эффекты анимаций и наведений.</span>",
+    "optional" : "Дополнительно: <span>Ведутся работы по переносу проекта на Vue.js."
+  },
+  {
+    "id": 3,
+    "name": "Fengo",
+    "imgCatalogBig": "Fengo-catalog-big.jpg",
+    "imgBig": "proj3.jpg",
+    "imgSmall": false,
+    "title": "&laquo;Fengo-Shop&raquo; - Интернет-магазин",
+    "notAdaptive": false,
+    "pageInfo": "Страницы: <span>Только Домашняя страница</span>",
+    "about": "О проекте: <span>Интернет-магазин брендовой одежды. Карточки товара: акционные, распродажа. Выпадающие меню. Реализованы 3 различных слайдера на Vanilla JS. Присутствует модуль поиска в реальном времени. Все данные подгружаются с импровизированного сервера.</span>",
+    "optional" : false
+  }
+]

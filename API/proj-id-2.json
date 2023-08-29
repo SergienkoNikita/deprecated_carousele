@@ -1,0 +1,62 @@
+{
+  "title": "&laquo;Historical Games&raquo;&nbsp;&mdash; интернет-магазин видео игр",
+  "adaptive": false,
+  "name": "games",
+  "text": "Реализован слайдер, а также аккордеон. Все элементы выполнены в соответствии с дизайном. Реализованы карточки товаров, акционные блоки, блоки похожих товаров. Также реализован метод изменения скриншотов в подробном описании товаров. Присутствуют формы обратной связи и страница контактов.",
+  "path": "/games/index.html",
+  "images": [{
+    "id": 1,
+    "small": "games-1.jpg",
+    "big": "games-1-big.jpg",
+    "desc": "Карточки товара",
+    "active": false
+  },{
+    "id": 2,
+    "small": "games-2.jpg",
+    "big": "games-2-big.jpg",
+    "desc": "&laquo;Full-screen&raquo; слайдер",
+    "active": false
+  },{
+    "id": 3,
+    "small": "games-3.jpg",
+    "big": "games-3-big.jpg",
+    "desc": "Аккордеон в новостном блоке",
+    "active": false
+  },{
+    "id": 4,
+    "small": "games-4.jpg",
+    "big": "games-4-big.jpg",
+    "desc": "Форма обратной связи глобальная",
+    "active": false
+  },{
+    "id": 5,
+    "small": "games-5.jpg",
+    "big": "games-5-big.jpg",
+    "desc": "Форма обратной связи на странице обратной связи",
+    "active": false
+  },{
+    "id": 6,
+    "small": "games-6.jpg",
+    "big": "games-6-big.jpg",
+    "desc": "Акционные товары",
+    "active": false
+  },{
+    "id": 7,
+    "small": "games-7.jpg",
+    "big": "games-7-big.jpg",
+    "desc": "Блок описания товара со скриншотами",
+    "active": false
+  },{
+    "id": 8,
+    "small": "games-8.jpg",
+    "big": "games-8-big.jpg",
+    "desc": "Блок с сервисами",
+    "active": false
+  },{
+    "id": 9,
+    "small": "games-9.jpg",
+    "big": "games-9-big.jpg",
+    "desc": "Главная страница",
+    "active": false
+  }]
+}
